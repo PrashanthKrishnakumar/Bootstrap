@@ -1,0 +1,105 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgba(238, 234, 234, 0.918) ;
+ 
+}   
+
+.container{
+ 
+position: absolute ;
+
+
+
+}
+
+h1{
+font-size: 2rem;
+margin-top:2%;
+margin-left: 1%;
+font-family: "Sofia";
+
+}
+
+.h2{
+    font-family: "Comfortaa";
+    font-size: 2rem;
+    margin-top:3%;
+    margin-left: 36%;
+    color: rgb(163, 219, 212);
+}
+
+
+ 
+ 
+ 
+
+ .card  {
+    font-family: "Comfortaa";
+margin-top: 5%;
+margin-left: 60%;
+ font-size: 2rem;
+position: relative;
+ 
+
+ 
+
+}
+
+input{
+
+font-size: 2rem;
+font-family: "Comfortaa";
+width: 20rem;
+color: rgb(46, 46, 42);
+border: none;
+outline: none;
+border-bottom: 2px solid ;
+padding: 1rem;
+
+
+}
+
+.reg-btn{
+    width: 20rem;
+    height: 2.9rem;
+    font-size: 1rem;
+    font-family: "Comfortaa";
+
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: rgba(55, 190, 190, 0.808);
+    color: rgb(212, 218, 217);
+}
+h3{
+
+    font-family: "Comfortaa";
+    font-size: 1.3rem;
+    margin-top:5%;
+    margin-left: 20%;
+
+
+    color: rgb(163, 219, 212);
+
+
+}
+
+.reg-btn:hover{
+        background-color: rgb(219, 223, 222) ;
+     color: rgb(37, 35, 35);
+
+    box-shadow:  0  0 9px  0 rgb(20, 19, 19);
+
+}
+ 
+.reg-btn:active{
+
+    background-color: rgb(184, 185, 185) ;
+
+
+}
+ 
+ 

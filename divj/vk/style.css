@@ -1,0 +1,27 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box ;
+
+}
+
+ .page1{
+
+margin-left: 5%;
+margin-top: 15%;
+
+}
+#logo{
+
+    margin-left:89%;
+font-family: Lobster;
+}
+
+#page2{
+
+font-size: 1rem;
+margin-left: 20%;
+padding: 2rem;
+
+}
