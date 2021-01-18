@@ -1,0 +1,166 @@
+*{
+
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+ 
+ .login {
+
+    text-decoration: none;
+    margin-right: 4rem;
+ 
+
+ }
+ #inten{
+
+cursor: pointer;
+
+ }
+ #font{
+
+    margin-left:40px;
+    font-size: 2rem;
+
+ }
+ .page1{
+
+margin-top: 19%;
+ 
+margin-left: 20%;
+
+ 
+ }
+
+ .parallax{
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#mag{
+font-family:  "Raleway" ;
+margin-left: 9%;
+color:  rgb(24, 22, 22);
+font-size:  2rem;
+}
+#ip{
+margin-top:50px;
+margin-left: -1%;
+    font-size:  2rem;
+    color:  rgb(24, 23, 23);
+    font-family:  "Raleway" ;
+}
+
+#mor{
+color: rgb(15, 14, 14);
+font-size: 120%;
+margin-left:-1% ;
+font-family:  "Raleway" ;
+}
+
+#lorem{
+font-size:2rem ;
+margin-left: 43% ;
+ padding-top: 5%;
+   color: rgb(238, 29, 14);
+   font-family:  "Raleway" ;
+   font-weight: 50rem;
+}
+#sem{
+    margin-left: 25%;
+    padding-top: 2px;
+
+}
+#jane{
+    color: rgb(238, 29, 14);
+    margin-left: 46%;
+}
+.container-fluid{
+background-color: rgb(240, 232, 220);
+
+}
+.image{
+
+margin-left: 20px;
+
+}
+#mage{
+
+    font-family:  "Raleway" ;
+    margin-left: 9%;
+    color:  rgb(24, 22, 22);
+    font-size:  2rem;
+    margin-left: 4px;
+
+}
+.container1{
+     
+
+margin-left: -35%;
+margin-top: 10%;
+
+}
+.card1{
+
+margin-top: -193%;
+margin-left: 26rem;
+
+ 
+
+}
+.card2{
+
+ 
+
+    margin-top: -195%;
+    margin-left: 50rem;
+ 
+
+}
+.card-body{
+    border: 1px solid rgb(183, 183, 185);
+}
+
+#sem1{
+ margin-left: 50%;
+margin-top: 10%;
+}
+#sem2{
+  
+ margin-left: 19%;
+ margin-top: 10%;
+   
+   }
+   #sem3{
+  
+ margin-left: 39%;
+ margin-top: 10%;
+   }
+   #lorem1{
+
+margin-left: 44%;
+font-family: "poppins";
+width: 40%;
+font-size: 2rem;
+color: rgb(233, 27, 27);
+margin-top: 20px;
+ 
+   } 
+  
+   #line{
+    color: rgb(233, 27, 27);
+margin-left: 32%;
+font-family: "poppins";
+font-size: 150%;
+ 
+border-top: 1px solid rgb(173, 183, 190);
+ padding-left: 14%;
+  width: 40%;
+ margin-top: -2%;
+padding-top: 30px;
+
+}
+  
